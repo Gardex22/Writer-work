@@ -1,0 +1,348 @@
+@media (max-width:1087px){
+    .dignity-box{
+        flex-direction: column-reverse;
+    }
+    .footer-p{
+        flex: 1 1 100%;
+
+    }
+    
+
+}
+@media (max-width:880px){
+    .container-scienific {
+        flex-direction: column;
+    }
+    .container-scienific__img img{
+        width: 100%;
+        object-fit: contain;
+
+
+    }
+    .box-call__title{
+        font-size: 30px;
+    }
+    .box-call__subtitle{
+        font-size: 19px;
+    }
+    .footer__block {
+        flex-direction: column-reverse;
+    }
+    .footer .tel{
+        margin-left: 40px;
+    }
+
+}
+@media (max-width:822px){
+    .main__business {
+        padding: 240px 0px;
+    }
+
+}
+@media (max-width:785px){
+    .footer__menu {
+        order: 5;
+        align-self: center;
+    }
+    .footer__container{
+        justify-content: center;
+    }
+    .footer-p {
+        justify-content: center;
+    }
+
+}
+@media (max-width:767px){
+    .main__business {
+        padding: 300px 0px;
+    }
+}
+
+@media (max-width:760px){
+    .box-text{
+        text-align: center;
+    }
+    .burger-menu__buttom{
+        display: block;
+    }
+    .header__right{
+        
+        position: fixed;
+        top: 0;
+        right: -100%;
+        height: 100%;
+        width: 100%;
+        background: linear-gradient(to left, #D83838 65%, #ff9b9b 50%);
+        transition: 0.5s;
+    }
+    .header__block{
+        padding-top: 100px;
+        height: 100%;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    .menu__list{
+        flex-direction: column;
+        
+        
+    }
+    .header__menu{
+        flex: 1 1 auto;
+        align-items: flex-start;
+
+    }
+    .logo{
+        padding: 20px;
+    }
+    .tel{
+       
+
+    }
+    .content-wraper {
+        padding-top: 100px;
+    }
+    .menu__link{
+       
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 20px;
+        color: #fff;
+    }
+    .menu__list{
+        margin-top: 10px;
+    }
+    .menu__item{
+        text-align: right;
+        padding: 10px 0;
+        line-height: 200%;
+    }
+    .tel {
+        margin: 20px;
+    }
+    .tel__img {
+        font-size: 30px;
+        color: #fff;
+    }
+    .fa-solid {
+    }
+    .fa-phone {
+    }
+    .tel__a {
+    }
+    .a-tel {
+    }
+    .a-tel__link {
+        color: #fff;
+        font-size: 25px;
+    
+    }
+    .a-tel__item {
+        margin: 0 0 20px 10px; 
+    }
+    .a-tel__icon {
+    }
+    .icon-tel {
+    }
+    .icon-tel__link {
+        font-size: 30px;
+        color: #fff;
+    }
+    .box-text__title {
+   
+        font-size: 33px;
+        line-height: 38px;
+    }
+    .business__container{
+        flex-direction: column-reverse;
+
+    }
+    .item-services{
+        flex-direction: column;
+        max-width: 850px;
+        align-items: center;
+       
+    }
+    .items-services {
+        
+        align-items: center;
+       
+      
+     }
+     .item-services__buttom {
+        margin-bottom: 25px;
+        flex-direction: column;
+    }
+    .item-services__title {
+        max-width: 450px;
+        text-align: center;
+        
+    }
+    .item-services__block2 {
+        line-height: 40px;
+    }
+    .item-services__title{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .item-services__title{
+        margin-bottom: 40px;
+    }
+    .dignity-box-2__top{
+        flex-direction: column;
+        align-items: center;
+    }
+    .dignity-box-2__bottom{
+        flex-direction: column;
+        align-items: center;
+    }
+    .box-text__title_size35px{
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .box-text__subtitle{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .them__items{
+        flex-direction: column;
+    }
+    .them__item {
+        margin-bottom: 20px;
+    }
+    .form-them{
+        flex-direction: column;
+    }
+    .form-them textarea{
+        margin: 15px 0;
+    }
+    .box-call{
+        flex-direction: column;
+        align-items: center;
+    }
+    .box-call__title{
+        text-align: center;
+        line-height: 33px;
+
+    }
+    .box-call__subtitle{
+        text-align: center;
+        line-height: 20px;
+    }
+    /*-----footer----*/
+    .footer a{
+        font-size: 19px;
+    }
+    .footer i{
+        font-size: 20px;
+    }
+    .footer .menu__list{
+    
+    }
+    .footer-logo {
+        padding-top: 20px;
+    }
+    .footer p{
+        padding: 20px;
+    }
+    .footer .tel a,
+    .footer .tel i,
+    .footer  p{
+    
+    font-size: 18px;
+    }
+}
+  
+@media (max-width:549px){
+    .box-help {
+        
+       flex-direction: column;
+        align-items: center;
+    }
+    .box-help p {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .help-page__bg {
+       
+        background-position: right;
+        
+        background-size: cover;
+        
+    }
+    .help-page__items {
+        margin-top: 80px;
+    }
+    .item-box {
+        padding: 10px;
+        margin-bottom: 30px;
+    }
+    .block-band__text{
+        font-size: 14px;
+        line-height: 16px;
+    }
+   
+    .box-call__title{
+        font-size: 25px;
+
+    }
+    .box-call__subtitle{
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (max-width:479px){
+    .a-tel__link {
+        font-size: 18px;
+ 
+    }
+    .a-tel__item {
+        margin: 0 0 20px 10px; 
+    }
+    
+    .icon-tel__link,  .tel__img {
+        font-size: 25px;
+        
+    }
+    .item-box__title {
+        font-size: 60px;
+
+    }
+    .item-box__subtitle{
+        font-size: 18px;
+       
+    } 
+    .item-seving__text{
+        font-size: 17px;
+    }
+    .footer .tel{
+        margin-left: 20px ;
+    }
+    .footer-logo{
+        flex: 0 0 120px;
+    }
+
+    .footer-logo img{
+        width: 100%;
+    }
+    .footer .tel a{
+        font-size: 14px;
+    }
+    .popup__title{
+        
+        font-size: 24px;
+        line-height: 30px;
+
+    }
+    .popup__subtitle{
+        font-size: 14px;
+        line-height: 22px;
+
+    }
+    .popup__content{
+        margin: 280px;
+    }
+}

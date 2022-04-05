@@ -1,0 +1,22 @@
+.main__business {
+    padding: 180px 0;
+ }
+ .business {
+ }
+ .business__container {
+     display: flex;
+     align-items: center;
+ }
+ 
+ .business__img img{
+    width: 100%;
+    
+ }
+ .business__text {
+     max-width: 600px;
+     padding: 3px;
+     
+ }
+ .business__img{
+     max-width: 520px;
+ } 

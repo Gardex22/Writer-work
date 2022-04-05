@@ -1,0 +1,31 @@
+.main__scientific-title {
+    padding: 30px 0;
+}
+.scientific-title {
+}
+
+.scientific-title__container {
+}
+.container-scienific {
+    display: flex;
+    align-items: center;
+}
+.container-scienific__text {
+    padding: 0 10px 0 0;
+}
+.container-scienific__text p{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.bold {
+    font-weight: 700;
+}
+.red {
+    color: red;
+    font-weight: 700;
+}
+.container-scienific__img {
+}

@@ -1,0 +1,58 @@
+.container {
+}
+.call__box {
+    background-color: #313131;
+
+}
+.box-call {
+    padding: 40px 40px 40px 20px;
+    display: flex;
+   
+}
+.box-call__bg {
+    background: url('/img/call/bg-1.png')-20% 120% no-repeat, url('/img/call/bg-2.png') 200% 40% no-repeat;
+}
+.box-call__text {
+    padding-right: 10px;
+
+}
+.text-box-call {
+}
+.box-call__title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    color: #ffff;
+    text-transform: uppercase;
+}
+.box-call__title span,
+.box-call__subtitle span{
+    color: #D83838;
+}
+.box-call__subtitle {
+    color: #ffff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+}
+.box-call__form {
+    display: flex;
+    align-items: center;
+}
+.form-call {
+    display: flex;
+    flex-direction: column;
+}
+.form-call__input {
+    width: 300px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.form-call_dop{
+    background-color: #D83838;
+    color: #ffff;
+}

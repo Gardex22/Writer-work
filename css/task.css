@@ -1,0 +1,43 @@
+.main__task {
+    background: #D83838 url('/img/task/bg1.png');
+}
+.task {
+   
+}
+.task__container {
+    background: url('/img/task/bg2.png') left no-repeat;
+}
+
+.task__text {
+  
+   max-width: 600px;
+   
+    padding: 50px 50px;
+    
+}
+.task-flex{
+    display: flex;
+    justify-content: flex-end
+}
+.text-task {
+}
+.text-task__title {
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #ffff;
+    margin: 0 0 10px 0;
+}
+.text-task__subtitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: #ffff;
+}

@@ -1,0 +1,29 @@
+.band {
+}
+.band__block {
+    border-top: 1px solid #303030;
+    transition: 0.5s;
+   
+}
+.band__block:last-child{
+    border-bottom: 1px solid #303030;
+}
+.band__block:hover{
+    background-color: #D83838;
+    color: #fff;
+}
+.block-band {
+    padding: 30px 20px;
+}
+
+.block-band__text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+
+}
+.block-band__text span{
+    font-weight: 700;
+}

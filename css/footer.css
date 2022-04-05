@@ -1,0 +1,85 @@
+.footer {
+}
+.footer__bg {
+    background-color: #414040;
+}
+.footer__container {
+    margin-top: 50px;
+    padding: 10px 3px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.container {
+}
+.footer-logo img{
+    max-width: 155px;
+}
+.footer-logo {
+    display: flex;
+    flex-direction: column;
+    order: 1;
+}
+.footer__block {
+    display: flex;
+}
+.footer__menu {
+    order: 2;
+}
+.footer .tel{
+    order: 3;
+}
+.menu-footer {
+}
+.menu-footer__list {
+    display: flex;
+}
+.menu-footer__item {
+    margin-right: 20px;
+}
+.menu-footer__item a {
+    color: #fff;
+    transition: 0.5s;
+}
+.menu-footer__item a:hover{
+    color: #D83838;
+}
+.menu-footer__link {
+}
+.footer-p{
+    display: flex;
+    flex: 1 1 100%;
+
+}
+.footer .tel a,
+.footer .tel i,
+.footer  p{
+    color: #fff;
+    font-size: 20px;
+}
+.tel__img {
+}
+.fa-solid {
+}
+.fa-phone {
+}
+.tel__a {
+}
+.a-tel {
+}
+.a-tel__item {
+}
+.a-tel__link {
+}
+.a-tel__icon {
+}
+.icon-tel {
+}
+.icon-tel__link {
+}
+.fa-brands {
+}
+.fa-telegram {
+}
+.fa-whatsapp {
+}
