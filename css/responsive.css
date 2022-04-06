@@ -346,3 +346,40 @@
         margin: 280px;
     }
 }
+@media (max-width:375px){
+    .main__business{
+        padding: 700px 0 0 0;
+    }
+    .box-text__title{
+        font-size: 23px;
+    }
+    .btn{
+        padding: 25px 7px;
+    }
+    .box-text__img img {
+        max-width: 25px;
+    }
+    .form-call__inpu{
+        max-width: 300px;
+    }
+   .menu-footer__list{
+        flex-direction: column;
+    }
+    .menu-footer__item{
+        padding: 10px 0;
+    }
+    .form-call__input{
+        max-width: 250px;
+    }
+    .seving__item {
+        margin-bottom: 60px;
+    }
+    .item-seving__bg,
+    .item-seving__bg-2,
+    .item-seving__bg-3,
+    .item-seving__bg-4{
+        height: 170px;
+    }
+  
+
+}
