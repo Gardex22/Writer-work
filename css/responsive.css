@@ -120,6 +120,7 @@
         margin: 20px;
     }
     .tel__img {
+        
         font-size: 30px;
         color: #fff;
     }
@@ -291,6 +292,9 @@
         font-size: 16px;
         margin-bottom: 20px;
     }
+    .header__right{
+        background: linear-gradient(to left, #D83838 80%, #ff9b9b 50%);
+    }
 
 }
 
@@ -344,6 +348,12 @@
     }
     .popup__content{
         margin: 280px;
+    }
+    .tel{
+        margin: 5;
+    }
+    .tel__img{
+        display: none;
     }
 }
 @media (max-width:375px){
